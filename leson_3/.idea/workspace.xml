@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bd92d57-d131-44c8-82c6-af46686bb0b5" name="Default Changelist" comment="" />
+    <list default="true" id="1bd92d57-d131-44c8-82c6-af46686bb0b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../leson_3-2/leson_3-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-2/src/leson_3/tms/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610978533296</updated>
       <workItem from="1610978539105" duration="86000" />
+      <workItem from="1610983171333" duration="694000" />
     </task>
     <servers />
   </component>
@@ -44,5 +48,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2322" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610978617704" />
+    <state x="2501" y="73" key="FileChooserDialogImpl" timestamp="1610983223964">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2501" y="73" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610983223964" />
+    <state x="1920" y="0" key="new project wizard" timestamp="1610983294485">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610983294485" />
   </component>
 </project>
