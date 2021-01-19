@@ -1,9 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd92d57-d131-44c8-82c6-af46686bb0b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../leson_3-2/leson_3-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../leson_3-2/src/leson_3/tms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/Lesom3-variables.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/src/com/tms/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/src/com/tms/VarCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesom3-variables/src/com/tms/runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/guess_namber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/leson_3-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/src/guess_The_namber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leson_3-3/untitled104.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leson_3-2/src/leson_3/tms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leson_3-2/src/leson_3/tms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +60,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leson_3-2/src/leson_3/tms/Main.java" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -36,25 +76,40 @@
       <option name="presentableId" value="Default" />
       <updated>1610978533296</updated>
       <workItem from="1610978539105" duration="86000" />
-      <workItem from="1610983171333" duration="694000" />
+      <workItem from="1610983171333" duration="2078000" />
+      <workItem from="1611067882120" duration="1061000" />
+      <workItem from="1611075885242" duration="305000" />
+      <workItem from="1611078211433" duration="169000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2322" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610978617704">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2322" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610978617704" />
-    <state x="2501" y="73" key="FileChooserDialogImpl" timestamp="1610983223964">
+    <state x="2501" y="73" key="FileChooserDialogImpl" timestamp="1611078302763">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2501" y="73" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610983223964" />
-    <state x="1920" y="0" key="new project wizard" timestamp="1610983294485">
+    <state x="2501" y="73" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611078302763" />
+    <state x="1920" y="0" key="new project wizard" timestamp="1611075927279">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="1920" y="0" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610983294485" />
+    <state x="1920" y="0" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611075927279" />
   </component>
 </project>
