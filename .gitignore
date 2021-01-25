@@ -1,19 +1,16 @@
-
-# Created by https://www.toptal.com/developers/gitignore/api/java
-# Edit at https://www.toptal.com/developers/gitignore?templates=java
-
-### Java ###
+lines (22 sloc)  325 Bytes
+  
 # Compiled class file
-
-#IDEA folders
-.idea
-
-
 *.class
+
+# IDEA folders
+*.idea
+
+# IDEA files (iml)
+*.iml
 
 # Log file
 *.log
-
 # BlueJ files
 *.ctxt
 
@@ -31,5 +28,3 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
-# End of https://www.toptal.com/developers/gitignore/api/java
