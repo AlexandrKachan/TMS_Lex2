@@ -4,7 +4,7 @@ public class namber_x {
     public static void main(String[] args) {
 
 
-        int xyzt = 1111;
+        int xyzt = 3224;
         System.out.println(xyzt);
         int x = xyzt/1000;
         int y = (xyzt/100)-10*x;
